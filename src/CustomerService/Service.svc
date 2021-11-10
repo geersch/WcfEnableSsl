@@ -1,0 +1,3 @@
+﻿<%@ ServiceHost Language="C#"
+                Service="CustomerService.CustomerService" 
+                CodeBehind="CustomerService.cs" %>
